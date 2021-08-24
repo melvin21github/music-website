@@ -1,0 +1,15 @@
+body{background: #C4480A;
+    background: -moz-linear-gradient(left, #C4480A 0%, #6D0B06 45%, #020202 100%);
+    background: -webkit-linear-gradient(left, #C4480A 0%, #6D0B06 45%, #020202 100%);
+    background: linear-gradient(to right, #C4480A 0%, #6D0B06 45%, #020202 100%);
+
+
+}
+h{color: rgba(241, 243, 231, 0.7);
+margin: 25% ;}
+div {
+    width: 300px;
+    border: 15px solid rgb(174, 180, 174);
+    padding: 50px;
+    margin: 200px;
+    }
